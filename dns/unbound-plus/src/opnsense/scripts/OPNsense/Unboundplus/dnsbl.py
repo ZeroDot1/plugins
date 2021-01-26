@@ -49,7 +49,7 @@ predefined_lists = {
     "hpf": "https://hosts-file.net/fsa.txt",
     "hpp": "https://hosts-file.net/psh.txt",
     "hup": "https://hosts-file.net/pup.txt",
-    "nc": "https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt",
+    "cbl": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
     "rw": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
     "mw": "http://malwaredomains.lehigh.edu/files/justdomains",
     "pa": "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list",
